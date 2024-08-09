@@ -4,8 +4,7 @@ body{
     background-color:hsl(47, 88%, 63%) ;
     font-size: 14px;
     font-weight: 500;
-    font-family: "figtree",sans-serif;
-  
+    font-family: "figtree",sans-serif; 
 }
 .blog-card{
     height:450px;
@@ -38,7 +37,8 @@ img{
  .mode{
     height: 20px;
     width: 65px;
-    margin-right: 170px;
+    padding: 1px;
+    margin-right: 225px;
     border-radius: 10%;
     background-color: hsl(47, 88%, 63%);
     font-weight: bold;
@@ -47,23 +47,23 @@ img{
 }
 .date{
 width: 200px;
-margin-right:38px;
+margin-right:96px;
     text-align:left;
 
 }
  h1{
-    margin-right: 8px;
+    margin-right: 60px;
     font-size: 20px;
     font-weight: 800;
 
  }
  .about{
     width: 250px;
-    margin-right:-10px;
-    
+    margin-right:34px;
+    margin-top: -10px;
     color:hsl(0, 0%, 42%);
-    text-align: left;
     padding:10px;
+    font-size: 12px;
  }
  .person{
     width: 200px;
